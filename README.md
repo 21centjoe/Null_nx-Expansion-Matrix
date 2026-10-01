@@ -39,7 +39,7 @@ sh run.sh
 
 ## License
 
-Copyright (C) 2024 Joseph La Follette
+Copyright (C) 2026 Joseph La Follette
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
